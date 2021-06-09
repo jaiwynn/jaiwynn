@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **jaiwynn/jaiwynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am technically a published author 
 -->
+
