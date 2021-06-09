@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... getting my Security+ Certification and AWS Certification 
 - 🌱 I’m currently learning ... see above.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... finding a job lol
+- 🤔 I’m looking for help with ... finding a new job lol
 - 💬 Ask me about ... making kombucha
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... he/him
